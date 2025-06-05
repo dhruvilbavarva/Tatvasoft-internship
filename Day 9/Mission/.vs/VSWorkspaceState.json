@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Mission",
+    "\\Mission\\Mission",
+    "\\Mission\\Mission\\Mission.Services",
+    "\\Mission\\Mission\\Mission.Services\\Services"
+  ],
+  "SelectedNode": "\\Mission\\Mission\\Mission.Services\\Services\\UserService.cs",
+  "PreviewInSolutionExplorer": false
+}
